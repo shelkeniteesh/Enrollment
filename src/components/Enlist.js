@@ -1,4 +1,5 @@
 import React from "react";
+import "./Enlist.css"
 export default class Enlist extends React.Component {
   render() {
     const { students } = this.props;
